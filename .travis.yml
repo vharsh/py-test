@@ -1,5 +1,5 @@
 language: python
-before_script:
+script:
   - ./writehtml.py
 deploy:
   provider: pages
